@@ -1,2 +1,4 @@
 master branch is created here and this file is pushed to github before creating another branch
+new brach slave is now added and this file was already in slave
+now i am edditing this in slave
 
